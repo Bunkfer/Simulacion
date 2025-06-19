@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|c:\\onedriveout\\maestria\\2do semestre\\simulacion\\tarea\\04 agentes\\wa-tor\\watorsimulation\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|solutionrelative:world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|solutionrelative:shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|solutionrelative:fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405A6A-D18E-498F-A3C4-809DAE297A6A}|WaTorSimulation.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T02:13:10.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fish.cs",
+              "DocumentMoniker": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\fish.cs",
+              "RelativeDocumentMoniker": "fish.cs",
+              "ToolTip": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\fish.cs",
+              "RelativeToolTip": "fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T02:12:54.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T02:12:05.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shark.cs",
+              "DocumentMoniker": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\shark.cs",
+              "RelativeDocumentMoniker": "shark.cs",
+              "ToolTip": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\shark.cs",
+              "RelativeToolTip": "shark.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:52:29.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\World.cs",
+              "RelativeDocumentMoniker": "World.cs",
+              "ToolTip": "C:\\OnedriveOut\\Maestria\\2do Semestre\\Simulacion\\Tarea\\04 Agentes\\Wa-tor\\WaTorSimulation\\World.cs",
+              "RelativeToolTip": "World.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswEgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:14:44.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
